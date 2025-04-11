@@ -1,11 +1,11 @@
 .field{
-  width: 300px;
+  width: 500px;
   padding-bottom: 20px;
 }
 
 .colour-border{
-  border: 5px solid magenta;
-  padding: 10px;
+  border: 5px solid pink;
+  padding: 15px;
 }
 
 .header{
